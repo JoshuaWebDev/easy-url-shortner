@@ -15,13 +15,6 @@
     <body>
         <div class="max-width bg-white padding">
             <h1>Easy URL Shortener</h1>
-            <br />
-            <div>
-                <form method="post">
-                    <input class="input" type="text" name="txtUrl" id="txtUrl" placeholder="Your URL here" />
-                    <input class="input" type="submit" name="" value="Create" />
-                </form>
-            </div>
         </div>
     </body>
 
